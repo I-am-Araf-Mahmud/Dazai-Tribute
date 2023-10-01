@@ -1,0 +1,60 @@
+
+#title {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center; 
+  font-family: Tahoma, sans-serif;
+
+}
+h1{
+  margin-bottom: -1px;
+}
+#title p{
+  font-size: 1rem;
+}
+body{
+  font-size: 1.6rem;
+  background-color: rgba(82, 82, 82, 0.185);
+  max-width: 100%;
+}
+#image {
+  max-width: 100%;
+  border-radius: 5px;
+}
+#img-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+#img-caption{
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+
+
+}
+
+.starting{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+.quote{
+  text-align: center;
+  margin: 20px;
+}
+.wiki{
+  text-align: center;
+  margin: 20px;
+}
+li{
+  margin-bottom: 30px;
+}
